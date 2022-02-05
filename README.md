@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LouisMuriuki
-- 👀 I’m interested in Web and android Technologies
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android and Web projects
-- 📫 How to reach me on linkedIn
+- 👀 I’m interested in Web-development Technologies
+- 🌱 I’m currently learning Nodejs and improving my javascript skills with each passing day
+- 💞️ I’m looking to collaborate on any Web related projects
+- 📫 How to reach me on linkedIn through https://www.linkedin.com/in/louis-muriuki-3b13b51b1/
 
 <!---
 LouisMuriuki/LouisMuriuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
