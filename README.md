@@ -5,7 +5,7 @@
 - 📫 How to reach me on linkedIn through
 -  https://www.linkedin.com/in/louis-muriuki-3b13b51b1/
 -  luihugo247@gmail.com
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouisMuriuki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!---
 LouisMuriuki/LouisMuriuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
