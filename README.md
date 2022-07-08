@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @LouisMuriuki ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ **Hi, I’m @LouisMuriuki**  👋 
+ **Glad to see you here**![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 - 👀 I’m interested in Web-development Technologies
 - 🌱 I’m currently learning Reactjs and improving my javascript skills with each passing day
 - 💞️ I’m looking to collaborate on any Web related projects
