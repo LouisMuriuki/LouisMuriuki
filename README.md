@@ -18,7 +18,7 @@
 
  <h1>Glad to see you here</h1>
  <ul>
- <li>👀 I’m Javascript developer (REACT,REACT-NATIVE AND SOON NODE) from Kenya </li>
+ <li>👀 I’m Javascript developer (REACT,REACT-NATIVE AND NODE) from Kenya </li>
 <li> 🌱 I'm working to develop my Tech Startup.</li>
 <li>💞️ I’m looking to collaborate on any Web related projects</li>
 <li> 💻Cloud Developer student at Udacity</li>
